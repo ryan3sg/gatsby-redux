@@ -5,7 +5,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's default starter
+  Gatsby w/ Redux starter
 </h1>
 
 This will serve as an initial to a project only. See [this tutorial](https://www.freecodecamp.org/news/how-to-get-started-with-gatsby-2-and-redux-ae1c543571ca/) for details.
